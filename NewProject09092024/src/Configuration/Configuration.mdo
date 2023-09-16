@@ -67,7 +67,7 @@
   <catalogs>Catalog.Лекции</catalogs>
   <catalogs>Catalog.Модули</catalogs>
   <catalogs>Catalog.УдалитьПользователи</catalogs>
-  <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
-</mdclass:Configuration>
+  <catalogs>Catalog.Номенклатура</catalogs>
+ </mdclass:Configuration>
